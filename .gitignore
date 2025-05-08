@@ -1,0 +1,5 @@
+queuelogs/*
+dist/*
+build/*
+.generated_files/*
+nbproject/*
